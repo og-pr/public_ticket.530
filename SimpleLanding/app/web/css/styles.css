@@ -3,6 +3,7 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-new-age/blob/master/LICENSE)
  */
+
  html,
  body {
    width: 100%;
@@ -48,9 +49,8 @@
    section h2 {
      font-size: 50px; }
  
-/* ********************************************************************************************************** */
-/* og.new - any line of code here will superceed output file ; */
-/* i.e. the N line_rule will be added, all other rules will remain */
+/* ************************************************************************************************************************ */
+/* og.new - any rule added here will superceed that rule in the thoutput file ; all other rules in block remain */
 /* misc fixes = added here and not in component style.css @ footer, social, navbar */ 
 
 li {
@@ -67,21 +67,20 @@ li {
 }
 
 /* remove blue button outline valid for reactjs + react-native */
-
 #mainNav .navbar-toggler {
     outline: 0;
     box-shadow: none!important;
 }
 
 
-/* per https://html.com/images/borders-and-image-links/ */
+/* remvove outline per https://html.com/images/borders-and-image-links/ */
 .badges .badge-link {
     display: inline-block;
     margin-bottom: 0;
     border: 0;
 }
 
-/* per https://tobiasahlin.com/blog/flexbox-break-to-new-row/ */
+/* block of (blank) space to break content flow per https://tobiasahlin.com/blog/flexbox-break-to-new-row/ */
 .break {
   flex-basis: 100%;
   height: 0;
@@ -111,7 +110,7 @@ li {
 }
 
 /* end */
-/* ********************************************************************************************************** */
+/* ************************************************************************************************************************ */
 
 .bg-primary {
  background: #fdcc52;
