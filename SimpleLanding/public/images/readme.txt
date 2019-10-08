@@ -1,0 +1,1 @@
+After build process, your IMAGE files will be here.
