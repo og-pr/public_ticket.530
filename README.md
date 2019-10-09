@@ -50,7 +50,7 @@ For each platform, from the root directory, do
 
 Demo & Animated GIFs
 ===========
-* [Live Demo](https://t-530-react.web.app/)
+* [Live Demo](https://t-530-react.web.app/) at [Firebase Hosting](https://firebase.google.com/docs/hosting)
 * [Google PageSpeed Analysis](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ft-530-react.web.app%2F&tab=mobile)
 
 ![Animated GIF - Landing Page iOS](https://github.com/og-pr/public_ticket.530/blob/master/SimpleLanding/_docs/ezgif-720_ios.gif)
