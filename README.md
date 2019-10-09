@@ -51,15 +51,16 @@ For each platform, from the root directory, do
 Demo & Animated GIFs
 ===========
 * Demo is TBD
+
 ![Animated GIF - Landing Page iOS](https://github.com/og-pr/public_ticket.530/blob/master/SimpleLanding/_docs/ezgif-720_ios.gif)
 ![Animated GIF - landing Page Android](https://github.com/og-pr/public_ticket.530/blob/master/SimpleLanding/_docs/ezgif-720_android.gif)
 ![Animated GIF - Landing Page Desktop](https://github.com/og-pr/public_ticket.530/blob/master/SimpleLanding/_docs/ezgif-720_web.gif)
 
 Notes - Development
 ===========
-* Adding [forms](https://flaviocopes.com/react-forms/) left as exercise to repo user
-* To save on file size, 1 device used from [HTML5 Mockups](https://github.com/pixelsign/html5-device-mockups)
-* To save on file size, [individual SVGs](https://github.com/FortAwesome/Font-Awesome/tree/master/svgs/solid) used instead of [FontAwesome React](https://github.com/FortAwesome/react-fontawesome)
+* [Forms](https://flaviocopes.com/react-forms/) left as exercise to repo user
+* To save on final bundle/file size, 1 device used from [HTML5 Mockups](https://github.com/pixelsign/html5-device-mockups)
+* To save on final bundle/file size, [individual SVGs](https://github.com/FortAwesome/Font-Awesome/tree/master/svgs/solid) used instead of [FontAwesome React](https://github.com/FortAwesome/react-fontawesome)
 
 Notes - Miscellaneous 
 =====
