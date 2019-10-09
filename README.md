@@ -51,6 +51,7 @@ For each platform, from the root directory, do
 Demo & Animated GIFs
 ===========
 * [Live Demo](https://t-530-react.web.app/)
+
 ![Animated GIF - Landing Page iOS](https://github.com/og-pr/public_ticket.530/blob/master/SimpleLanding/_docs/ezgif-720_ios.gif)
 ![Animated GIF - landing Page Android](https://github.com/og-pr/public_ticket.530/blob/master/SimpleLanding/_docs/ezgif-720_android.gif)
 ![Animated GIF - Landing Page Desktop](https://github.com/og-pr/public_ticket.530/blob/master/SimpleLanding/_docs/ezgif-720_web.gif)
