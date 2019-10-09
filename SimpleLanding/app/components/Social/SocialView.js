@@ -13,11 +13,10 @@ const Social = (props) => (
   <section className="contact bg-primary" id="contact">
     <div style={{alignItems:"center", justifyContent:"center"}} className="container">
       <ul style={{alignItems:"center", justifyContent:"center"}} className="list-inline list-social">
-        <li className="list-inline-item social-twitter" style={{fontSize:50}}>We <SVG src={FaHeart} width='51px' height='50px' fill='red' style={{marginBottom:10}}  /> new friends!</li>
+        <li className="list-inline-item social-twitter" style={{fontSize:50}}>Contact us... <br />We <SVG src={FaHeart} width='51px' height='50px' fill='red' style={{marginBottom:10}}  /> new friends!</li>
         <div className="break"></div>
         &nbsp; &nbsp; &nbsp; &nbsp; <li className="list-inline-item social-twitter"> <a href="#"> <SVG src={FaTwitter} width='40px' height='40px' fill='white' style={{marginBottom:10}}  /> </a></li>
         <li className="list-inline-item social-facebook"><a href="#"> <SVG src={FaFacebookF} width='25px' height='40px' fill='white' style={{marginBottom:10}} /> </a></li>
-        <li className="list-inline-item social-google-plus"><a href="#"> <SVG src={FaGooglePlus} width='50px' height='40px' fill='white' style={{marginBottom:10}}  /> </a></li>
       </ul>
     </div>
   </section>
