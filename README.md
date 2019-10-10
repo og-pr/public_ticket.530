@@ -2,9 +2,10 @@ React-Native Monorepo: SimpleLanding
 =================
 "SimpleLanding" is sample code of a landing page, in a monorepo.
 
-The use case is to embed a single app such as a game like ```Little Shooter``` ([demo](http://bobylito.me/littleshooter2/)|[code](https://github.com/bobylito/littleshooter2))
-or ```Dodgy``` ([demo](https://brandonstilson.com/dodgygame/)|[code](https://github.com/bbstilson/react-dodgy-game)) in it. For example: the repo user would refactor any of the above 
-games and add mobile specific code, as needed.
+The use case is to embed a single app such as a game like ```Little Shooter``` ([demo](http://bobylito.me/littleshooter2/)|[code](https://github.com/bobylito/littleshooter2)), 
+```Dodgy``` ([demo](https://brandonstilson.com/dodgygame/)|[code](https://github.com/bbstilson/react-dodgy-game)) or any small [1K](https://js1k.com/2019-x/demos) or [13K](https://js13kgames.com/#winners) open source JS game in it. For example: 
+the repo user would refactor any open source game and add mobile specific code, 
+as needed.
 
 
 As reminder, this monorepo is an example for how to share code between different platforms (Web, Android, & iOS). 
