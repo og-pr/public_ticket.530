@@ -70,7 +70,8 @@ Notes - Miscellaneous
 
 Inspiration
 ===========
-* [Start Bootstrap - New Age](https://startbootstrap.com/themes/new-age/) landing page
+* [Start Bootstrap - New Age theme](https://startbootstrap.com/themes/new-age/)
+* [How to convert any webpage to React JS](https://medium.com/javascript-in-plain-english/how-to-convert-any-web-page-to-reactjs-9740f1ba15db)
 * [How to create a portfolio website using React.js](https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/) 
 * [Build a Landing Page in React Native](https://alligator.io/react/react-native-flexbox/) using flexbox
 * I [replicated](https://medium.com/@gabriel_gamil/wow-i-replicated-a-bootstrap-4-free-web-template-theme-with-reactjs-59650683c99c) a [Bootstrap](https://getbootstrap.com/) free web template theme with React.js
